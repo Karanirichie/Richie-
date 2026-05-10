@@ -1,24 +1,24 @@
-# Hi there, I'm Richard 👋
+Hi there, I'm Richard 👋
 
-### Data Analyst | Turning Raw Data into Clear Decisions
+Data Analyst | Turning Raw Data into Clear Decisions
 
 I'm a passionate data analyst who loves uncovering stories hidden inside data. I work with real-world datasets to build insights, visualizations, and models that drive meaningful decisions.
 
----
 
-## 🧠 About Me
 
-- 🔍 I specialize in **data cleaning, analysis, and visualization**
+ About Me
+
+- 🔍 I specialize in data cleaning, analysis, and visualization
 - 📊 I build dashboards and reports that make complex data easy to understand
-- 🤖 I'm growing my skills in **machine learning and predictive analytics**
-- 🌍 Based and open to **remote opportunities**
-- 📬 Reach me at: **richardkarani038@gmail.com **
+- 🤖 I'm growing my skills in machine learning and predictive analytics
+- 🌍 Based and open to remote opportunities
+- 📬 Reach me at: richardkarani038@gmail.com 
 
----
 
-## 🛠️ Tools & Technologies
 
-**Languages**
+🛠️ Tools & Technologies
+
+Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
