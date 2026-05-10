@@ -1,4 +1,4 @@
-# Hi there, I'm Richie 👋
+# Hi there, I'm Richard 👋
 
 ### Data Analyst | Turning Raw Data into Clear Decisions
 
