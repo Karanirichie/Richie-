@@ -12,7 +12,7 @@ I'm a passionate data analyst who loves uncovering stories hidden inside data. I
 - 📊 I build dashboards and reports that make complex data easy to understand
 - 🤖 I'm growing my skills in **machine learning and predictive analytics**
 - 🌍 Based and open to **remote opportunities**
-- 📬 Reach me at: **[your email here]**
+- 📬 Reach me at: **richardkarani038@gmail.com **
 
 ---
 
