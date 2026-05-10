@@ -54,7 +54,7 @@ Tools & Platforms
 
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanirichie&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
@@ -63,7 +63,7 @@ Tools & Platforms
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
